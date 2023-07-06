@@ -19,7 +19,7 @@ struct ProductRowView: View {
                 if let image = imageLoader.image {
                     Image(uiImage: image)
                         .resizable()
-                        .aspectRatio(contentMode: .fit)
+                        .aspectRatio(1, contentMode: .fill)
                         .frame(maxWidth: .infinity, maxHeight: 150)
                 } else {
                     Color.gray
@@ -33,12 +33,16 @@ struct ProductRowView: View {
                     Image(systemName: product.isFavorite ? "heart.fill" : "heart")
                         .foregroundColor(product.isFavorite ? .blue : .gray)
                 }
+                .padding()
             }
+            
             Text(product.name)
-                .font(.headline)
+                .font(.subheadline)
+                .multilineTextAlignment(.leading)
+                .lineLimit(nil)
+                .padding()
             
         }
-        .padding()
         .background(Color.white)
         .cornerRadius(10)
         .onAppear {

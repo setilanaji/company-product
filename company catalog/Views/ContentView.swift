@@ -22,6 +22,8 @@ struct ContentView: View {
                 LazyVGrid(columns: columns, spacing: 16) {
                     ForEach(controller.filteredProduct) { product in
                         ProductRowView(product: .constant(product))
+                            .aspectRatio(3/2, contentMode: .fit)
+                            .frame(maxWidth: .infinity)
                     }
                 }
                 .padding()
