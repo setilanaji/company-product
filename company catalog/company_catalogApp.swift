@@ -11,7 +11,9 @@ import SwiftUI
 struct company_catalogApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView(controller: ProductController(
+                repository: ProductRepository.shared
+            ))
         }
     }
 }

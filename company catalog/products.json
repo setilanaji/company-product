@@ -1,0 +1,68 @@
+[
+  {
+    "_id": "64a66d00071181eb071b5e4e",
+    "isFavorite": true,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "PYRAMIA"
+  },
+  {
+    "_id": "64a66d006ace4f0b920cf376",
+    "isFavorite": true,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "MAGMINA"
+  },
+  {
+    "_id": "64a66d00074ddfabb38e64df",
+    "isFavorite": true,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "SATIANCE"
+  },
+  {
+    "_id": "64a66d00bd2a8eea5de73679",
+    "isFavorite": true,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "URBANSHEE"
+  },
+  {
+    "_id": "64a66d0081b21e6a73658c10",
+    "isFavorite": false,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "ISONUS"
+  },
+  {
+    "_id": "64a66d00833be515658ae1a7",
+    "isFavorite": false,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "GEEKOLA"
+  },
+  {
+    "_id": "64a66d004fe72069f12edf99",
+    "isFavorite": true,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "ZILIDIUM"
+  },
+  {
+    "_id": "64a66d00daca11cb081b4160",
+    "isFavorite": true,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "PHOTOBIN"
+  },
+  {
+    "_id": "64a66d004bce1d9e94762124",
+    "isFavorite": true,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "FRENEX"
+  },
+  {
+    "_id": "64a66d0026cda8700b0b25c0",
+    "isFavorite": false,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "NIKUDA"
+  },
+  {
+    "_id": "64a66d0092c77c5baa52af24",
+    "isFavorite": true,
+    "picture": "https://images.ctfassets.net/2d5q1td6cyxq/1eFfA2SW2rJlQgHAXSZWwD/0781a6aa69a90a822fd50b93fe107e8d/SHOP_Product_Reader_for_Magstripe_Headset_Jack_Gallery-01.png?h=996&w=2032",
+    "name": "ACCIDENCY"
+  }
+]
